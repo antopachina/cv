@@ -1,0 +1,15 @@
+
+
+h1{
+    border: 1px solid black;
+    margin: 5px;
+    padding: 30px, 25px, 15px, 20px;
+    /* Orden: Arriba, Derecha, Abajo, Izquierda*/
+    font-weight: bold;
+    color: grey;
+}
+
+
+p {
+    width: 300px;
+}
